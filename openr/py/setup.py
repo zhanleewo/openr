@@ -71,5 +71,6 @@ setup(
         'ipaddress',
         'pyzmq',
         'tabulate',
+        'typing'
     ],
 )
